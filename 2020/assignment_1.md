@@ -30,9 +30,6 @@
 - є можливість грати з комп'ютером та за двох гравців - *2 бали*
 - якість реалізації MVC - *3 бали*
 
-
-Примітки:
-
 ### Матеріали:
 - [Лекція із загальних правил проектування програм](https://www.youtube.com/watch?v=_YL5SCJr84E&list=PLkgXLMuasx7C7yMUsaq366htPg9rpM2lw)
 - [Лекція з MVC](https://www.youtube.com/watch?v=6Avtm_qij2E&list=PLkgXLMuasx7C7yMUsaq366htPg9rpM2lw)
