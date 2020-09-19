@@ -58,4 +58,4 @@
 
 ### Література
 Посилання йдуть амазон, але всі матеріали можна знайти в мережі
-- [AI for games](https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/1138483974)
+- [AI for games (chapter 9)](https://www.amazon.com/AI-Games-Third-Ian-Millington/dp/1138483974)
