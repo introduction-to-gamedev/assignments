@@ -4,7 +4,7 @@
 #### Штучний інтелект
 - A*, IDA*, Dijkstra, Jump Point Search;
 - minimax, negamax, a\b pruning;
-- Monte-Carlo Search Trees
+- Monte-Carlo Search Trees;
 - steering behaviours and boids (seek, arrival, wonder, flee, group movement, line alignment, wall avoiding etc);
 - goal-oriented behaviour and goal-oriented action planning;
 - дерева прийняття рішень;
@@ -48,6 +48,7 @@
 - принципи мережевої організації MMO ігор, кооперативних ігор, покрокових ігор;
 
 #### Інше
+- вектори та операції над ними;
 - інтерполяція, екстраполяція, апроксимація;
 - кватерніони та шарнірний замок;
 - шум за Перліним;
